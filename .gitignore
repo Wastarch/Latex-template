@@ -1,0 +1,15 @@
+# LaTeX 中间文件
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.pdf  # 如果不需要跟踪PDF输出（推荐使用CI/CD自动生成）
+# VS Code配置
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
