@@ -4,10 +4,10 @@
 
 ## 可用模板
 
-- **academic** - 学术论文模板
-- **report** - 报告模板  
-- **letter** - 信件模板
-- **beamer** - 演示文稿模板
+- **academic** - 学术论文模板 [academic](academic/example.tex)
+- **report** - 报告模板      [report](report/example.tex)
+- **letter** - 信件模板      [letter](letter/example.tex)
+- **beamer** - 演示文稿模板 [beamer](beamer/example.tex)
 
 ## 快速开始
 
